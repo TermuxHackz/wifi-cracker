@@ -72,7 +72,7 @@ def intro():
         print("\nEnter the channel of the network?")
         channel   = int(input())
         print("Enter the path of the output file ?")
-        path = str(input("")
+        path = str(input(""))
         print("\nEnter the number of the packets [1-10000] ( 0 for unlimited number)")
         print("the number of the packets Depends on the Distance Between you and the network")
         dist = int(input(""))
